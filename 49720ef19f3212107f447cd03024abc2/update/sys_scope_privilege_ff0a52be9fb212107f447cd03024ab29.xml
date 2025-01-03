@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_scope_privilege">
+    <sys_scope_privilege action="INSERT_OR_UPDATE">
+        <operation>execute</operation>
+        <source_scope display_value="Loaner Request">49720ef19f3212107f447cd03024abc2</source_scope>
+        <status>allowed</status>
+        <sys_class_name>sys_scope_privilege</sys_class_name>
+        <sys_created_by>fred.luddy</sys_created_by>
+        <sys_created_on>2025-01-03 17:47:53</sys_created_on>
+        <sys_id>ff0a52be9fb212107f447cd03024ab29</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Glide API: user roles and groups</sys_name>
+        <sys_package display_value="Loaner Request" source="x_cdltd_loaner_req">49720ef19f3212107f447cd03024abc2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Request">49720ef19f3212107f447cd03024abc2</sys_scope>
+        <sys_update_name>sys_scope_privilege_ff0a52be9fb212107f447cd03024ab29</sys_update_name>
+        <sys_updated_by>fred.luddy</sys_updated_by>
+        <sys_updated_on>2025-01-03 17:47:53</sys_updated_on>
+        <target_name>Glide API: user roles and groups</target_name>
+        <target_scope display_value="Global">global</target_scope>
+        <target_type>scriptable</target_type>
+    </sys_scope_privilege>
+</record_update>
